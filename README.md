@@ -6,7 +6,7 @@ Use
 ----------------
 You'll need to specify that your SRC tag is using embedded data like the example below:
 
-<img src="data:image/png;base64,YOUR_ENCODED_DATA_GOES_HERE"/>
+&lt; img src="data:image/png;base64,YOUR_ENCODED_DATA_GOES_HERE"/&gt;
 
 Note that you'll have to specify the appropriate data type for this to work.
 
