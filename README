@@ -1,6 +1,6 @@
 What is this?
 ----------------
-This is a simple utility that converts a given image into base64 encoded that can be used as the SRC in an HTML IMG tag.
+This is a simple utility that converts a given image into base64 data that can be used as the SRC in an HTML IMG tag.
 
 Use
 ----------------
